@@ -1,0 +1,11 @@
+appointmentId=APT1;patientId=PAT1;doctorId=DOC1;rating=5;comments=Excellent doctor, very caring and professional;createdAt=2025-11-20 14:22:10
+appointmentId=APT4;patientId=PAT2;doctorId=DOC4;rating=5;comments=Best pediatrician ever! My child loves her;createdAt=2025-11-18 11:45:33
+appointmentId=APT6;patientId=PAT10;doctorId=DOC8;rating=4;comments=Good explanation but waiting time was long;createdAt=2025-11-19 16:20:05
+appointmentId=APT10;patientId=PAT7;doctorId=DOC3;rating=5;comments=Perfect diagnosis and accurate treatment;createdAt=2025-11-22 13:55:44
+appointmentId=APT1;patientId=PAT1;doctorId=DOC1;rating=4;comments=Good but could explain more;createdAt=2025-11-20 14:25:00
+appointmentId=APT4;patientId=PAT2;doctorId=DOC4;rating=5;comments=Highly recommended;createdAt=2025-11-18 11:50:00
+appointmentId=APT6;patientId=PAT10;doctorId=DOC8;rating=5;comments=Very satisfied;createdAt=2025-11-19 16:30:00
+appointmentId=APT10;patientId=PAT7;doctorId=DOC3;rating=4;comments=Good service;createdAt=2025-11-22 14:00:00appointmentId=APT18;patientId=PAT1;doctorId=DOC5;rating=5;comments=No comments;createdAt=2025-11-24 23:16:11
+appointmentId=APT1;patientId=PAT1;doctorId=DOC1;rating=5;comments=;createdAt=2025-11-26 14:27:47
+appointmentId=APT18;patientId=PAT1;doctorId=DOC5;rating=5;comments=;createdAt=2025-11-26 14:29:39
+appointmentId=APT1;patientId=PAT1;doctorId=DOC1;rating=5;comments=;createdAt=2025-11-26 14:31:28

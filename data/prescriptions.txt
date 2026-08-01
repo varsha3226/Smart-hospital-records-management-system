@@ -1,0 +1,7 @@
+id=PRS1;appointmentId=APT1;patientId=PAT1;doctorId=DOC1;diagnosis=Angina;medicines=Aspirin 75mg, Atorvastatin 20mg;duration=30 days;followUpDate=2025-12-20;doctorSignature=Dr. Arjun Reddy
+id=PRS2;appointmentId=APT4;patientId=PAT2;doctorId=DOC4;diagnosis=Viral Fever;medicines=Paracetamol 500mg, Amoxicillin 500mg;duration=5 days;followUpDate=2025-11-23;doctorSignature=Dr. Priya Menon
+id=PRS3;appointmentId=APT6;patientId=PAT10;doctorId=DOC8;diagnosis=PCOS;medicines=Metformin 500mg, OCP;duration=90 days;followUpDate=2026-02-19;doctorSignature=Dr. Neha Gupta
+id=PRS4;appointmentId=APT10;patientId=PAT7;doctorId=DOC3;diagnosis=Lumbar Spondylosis;medicines=Ibuprofen 400mg, Physiotherapy;duration=15 days;followUpDate=2025-12-07;doctorSignature=Dr. Vikram Singh
+id=PRS6;appointmentId=APT4;patientId=PAT2;doctorId=DOC4;diagnosis=Tonsillitis;medicines=Augmentin 625mg, Gargle;duration=7 days;followUpDate=2025-11-25;doctorSignature=Dr. Priya Menonid=PRS7;appointmentId=APT7;patientId=PAT12;doctorId=DOC1;diagnosis=stomach pain;medicines=meftal spas;duration=3;followUpDate=2024-10-21;doctorSignature=Dr. Arjun Reddy
+id=PRS8;appointmentId=APT18;patientId=PAT1;doctorId=DOC5;diagnosis=fever;medicines=dolo;duration=3 days;followUpDate=27-11-25;doctorSignature=Dr. Rohan Kapoor
+id=PRS9;appointmentId=APT001;patientId=PAT1;doctorId=DOC1;diagnosis=surgery;medicines=gasterol capsule 50mg;duration=1hr;followUpDate=;doctorSignature=Dr. Arjun Reddy

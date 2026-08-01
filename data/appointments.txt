@@ -1,0 +1,27 @@
+id=APT001;patientId=PAT1;doctorId=DOC1;department=Cardiology;date=2025-08-15;timeSlot=10:00 AM - 10:30 AM;symptoms=Chest pain and shortness of breath;status=COMPLETED
+id=APT002;patientId=PAT2;doctorId=DOC2;department=Neurology;date=2025-08-14;timeSlot=03:00 PM - 03:30 PM;symptoms=Severe headache and dizziness;status=COMPLETED
+id=APT003;patientId=PAT1;doctorId=DOC1;department=Cardiology;date=2025-08-10;timeSlot=11:00 AM - 11:30 AM;symptoms=Palpitations and fatigue;status=COMPLETED
+id=APT004;patientId=PAT3;doctorId=DOC1;department=Cardiology;date=2025-08-18;timeSlot=09:30 AM - 10:00 AM;symptoms=High blood pressure;status=COMPLETED
+id=APT005;patientId=PAT4;doctorId=DOC2;department=Neurology;date=2025-08-16;timeSlot=04:00 PM - 04:30 PM;symptoms=Migraine and nausea;status=COMPLETED
+id=APT006;patientId=PAT2;doctorId=DOC1;department=Cardiology;date=2025-08-20;timeSlot=10:30 AM - 11:00 AM;symptoms=Follow-up checkup;status=COMPLETED
+id=APT007;patientId=PAT1;doctorId=DOC1;department=Cardiology;date=2025-11-20;timeSlot=10:00-10:30;symptoms=Chest pain and shortness of breath;status=COMPLETED
+id=APT008;patientId=PAT3;doctorId=DOC3;department=Orthopedics;date=2025-11-21;timeSlot=11:00-11:30;symptoms=Knee pain after fall;status=DOCTOR_ACCEPTED
+id=APT009;patientId=PAT5;doctorId=DOC2;department=Neurology;date=2025-11-22;timeSlot=14:00-14:30;symptoms=Severe headache and dizziness;status=ADMIN_APPROVED
+id=APT010;patientId=PAT2;doctorId=DOC4;department=Pediatrics;date=2025-11-18;timeSlot=09:30-10:00;symptoms=High fever in child;status=COMPLETED
+id=APT011;patientId=PAT8;doctorId=DOC6;department=Dermatology;date=2025-11-23;timeSlot=15:00-15:30;symptoms=Skin rash and itching;status=ADMIN_APPROVED
+id=APT012;patientId=PAT10;doctorId=DOC8;department=Gynecology;date=2025-11-19;timeSlot=10:30-11:00;symptoms=Irregular periods;status=COMPLETED
+id=APT013;patientId=PAT12;doctorId=DOC1;department=Cardiology;date=2025-11-24;timeSlot=09:00-09:30;symptoms=Palpitations;status=DOCTOR_REJECTED
+id=APT014;patientId=PAT15;doctorId=DOC5;department=General Medicine;date=2025-11-20;timeSlot=16:00-16:30;symptoms=Cough and fever;status=DOCTOR_REJECTED
+id=APT015;patientId=PAT4;doctorId=DOC12;department=Ophthalmology;date=2025-11-25;timeSlot=11:30-12:00;symptoms=Blurry vision;status=ADMIN_APPROVED
+id=APT016;patientId=PAT7;doctorId=DOC3;department=Orthopedics;date=2025-11-22;timeSlot=13:00-13:30;symptoms=Back pain;status=COMPLETED
+id=APT017;patientId=PAT18;doctorId=DOC6;department=Dermatology;date=2025-11-26;timeSlot=10:00-10:30;symptoms=Acne treatment;status=REQUESTED
+id=APT018;patientId=PAT11;doctorId=DOC7;department=ENT;date=2025-11-21;timeSlot=15:30-16:00;symptoms=Ear pain;status=DOCTOR_ACCEPTED
+id=APT019;patientId=PAT6;doctorId=DOC4;department=Pediatrics;date=2025-11-27;timeSlot=14:30-15:00;symptoms=Vaccination;status=DOCTOR_REJECTED
+id=APT020;patientId=PAT19;doctorId=DOC1;department=Cardiology;date=2025-11-23;timeSlot=08:30-09:00;symptoms=High BP checkup;status=COMPLETED
+id=APT021;patientId=PAT9;doctorId=DOC1;department=Cardiology;date=2025-11-29;timeSlot=08:30-09:00;symptoms=High BP checkup;status=COMPLETED
+id=APT022;patientId=PAT20;doctorId=DOC2;department=Neurology;date=2025-11-28;timeSlot=16:30-17:00;symptoms=Migraine;status=REQUESTED
+id=APT023;patientId=PAT1;doctorId=DOC2;department=Neurology;date=2025-11-22;timeSlot=15:30-16:00;symptoms=Brain stroke follow-up;status=COMPLETED
+id=APT024;patientId=PAT1;doctorId=DOC2;department=Neurology;date=2025-11-24;timeSlot=10:00-10:30;symptoms=Nerve issues;status=ADMIN_APPROVED
+id=APT025;patientId=PAT1;doctorId=DOC5;department=General Medicine;date=2025-11-26;timeSlot=10:30-11:00;symptoms=Fever and weakness;status=COMPLETED
+id=APT026;patientId=PAT1;doctorId=DOC1;department=Cardiology;date=2026-04-27;timeSlot=09:00 AM - 09:30 AM;symptoms=chest pain;status=ADMIN_APPROVED
+id=APT027;patientId=PAT1;doctorId=DOC1;department=Cardiology;date=2026-06-20;timeSlot=09:00 AM - 09:30 AM;symptoms=chest infection;status=REQUESTED

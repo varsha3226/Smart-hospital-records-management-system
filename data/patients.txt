@@ -1,0 +1,16 @@
+id=PAT1;name=Ravi Kumar;phone=9999999999;username=ravi;password=pass;age=30;gender=Male;initialSymptoms=Fever, dry cough, body pain and weakness for 4 days
+id=PAT2;name=Sita Devi;phone=8888888888;username=sita;password=pass;age=25;gender=Female;initialSymptoms=Severe headache for 3 days, vomiting, sensitivity to light, neck stiffness
+id=PAT3;name=Amit Sharma;phone=7777777777;username=amit;password=pass;age=45;gender=Male;initialSymptoms=Chest pain on exertion, shortness of breath, sweating – suspected angina
+id=PAT4;name=Priya Singh;phone=6666666666;username=priya;password=pass;age=32;gender=Female;initialSymptoms=Lower abdominal pain, burning urination, fever – possible UTI
+id=PAT5;name=Rahul Verma;phone=5555555555;username=rahul;password=pass;age=28;gender=Male;initialSymptoms=—
+id=PAT6;name=chaithu;phone=765432345678;username=uuu;password=123;age=23;gender=Female;initialSymptoms=sadism
+id=PAT7;name=Rakesh Menon;phone=4444444444;username=rakesh;password=pass;age=35;gender=Male;initialSymptoms=High fever, chills, sweating – suspected malaria
+id=PAT8;name=Shalini Deshpande;phone=3333333333;username=shalini;password=pass;age=29;gender=Female;initialSymptoms=Persistent cough with blood-streaked sputum – possible tuberculosis
+id=PAT9;name=Harish Bhatia;phone=2222222222;username=harish;password=pass;age=50;gender=Male;initialSymptoms=Sudden weakness on one side, slurred speech – suspected stroke
+id=PAT10;name=Kavya Ramesh;phone=1111111111;username=kavya;password=pass;age=27;gender=Female;initialSymptoms=Severe abdominal cramps, nausea, diarrhea – possible food poisoning
+id=PAT11;name=Manoj Pillai;phone=9998887777;username=manoj;password=pass;age=40;gender=Male;initialSymptoms=Shortness of breath, wheezing – suspected asthma
+id=PAT12;name=Anusha Shetty;phone=8887776666;username=anusha;password=pass;age=31;gender=Female;initialSymptoms=Fatigue, pale skin, dizziness – possible anemia
+id=PAT13;name=Deepak Chawla;phone=7776665555;username=deepak;password=pass;age=36;gender=Male;initialSymptoms=Severe back pain radiating to legs – suspected slipped disc
+id=PAT14;name=Revathi Mohan;phone=6665554444;username=revathi;password=pass;age=24;gender=Female;initialSymptoms=Skin rash, itching, swelling – possible allergic reaction
+id=PAT15;name=Santosh Kulkarni;phone=5554443333;username=santosh;password=pass;age=48;gender=Male;initialSymptoms=Frequent urination, excessive thirst – suspected diabetes
+id=PAT16;name=Pooja Narang;phone=4443332222;username=pooja;password=pass;age=26;gender=Female;initialSymptoms=Irregular heartbeat, dizziness – suspected arrhythmia

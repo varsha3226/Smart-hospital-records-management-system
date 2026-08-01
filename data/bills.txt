@@ -1,0 +1,8 @@
+id=BILL1;appointmentId=APT1;patientId=PAT1;doctorId=DOC1;baseAmount=1500.0;taxPercent=18.0;taxAmount=270.0;totalAmount=1770.0;createdAt=2025-11-20;paid=false
+id=BILL2;appointmentId=APT4;patientId=PAT2;doctorId=DOC4;baseAmount=800.0;taxPercent=18.0;taxAmount=144.0;totalAmount=944.0;createdAt=2025-11-18;paid=false
+id=BILL3;appointmentId=APT6;patientId=PAT10;doctorId=DOC8;baseAmount=2000.0;taxPercent=18.0;taxAmount=360.0;totalAmount=2360.0;createdAt=2025-11-19;paid=false
+id=BILL4;appointmentId=APT10;patientId=PAT7;doctorId=DOC3;baseAmount=1800.0;taxPercent=18.0;taxAmount=324.0;totalAmount=2124.0;createdAt=2025-11-22;paid=false
+id=BILL5;appointmentId=APT1;patientId=PAT1;doctorId=DOC1;baseAmount=500.0;taxPercent=5.0;taxAmount=25.0;totalAmount=525.0;createdAt=2025-11-20;paid=false
+id=BILL6;appointmentId=APT4;patientId=PAT2;doctorId=DOC4;baseAmount=1200.0;taxPercent=18.0;taxAmount=216.0;totalAmount=1416.0;createdAt=2025-11-18;paid=false
+id=BILL7;appointmentId=APT6;patientId=PAT10;doctorId=DOC8;baseAmount=2500.0;taxPercent=18.0;taxAmount=450.0;totalAmount=2950.0;createdAt=2025-11-19;paid=true
+id=BILL8;appointmentId=APT10;patientId=PAT7;doctorId=DOC3;baseAmount=1600.0;taxPercent=18.0;taxAmount=288.0;totalAmount=1888.0;createdAt=2025-11-22;paid=false

@@ -1,0 +1,10 @@
+id=DOC1;name=Dr. Arjun Reddy;username=arjun;password=pass;department=Cardiology;qualification=MBBS, MD;experienceYears=7;shift=MORNING;active=true;rating=4.5;ratingsCount=10
+id=DOC2;name=Dr. Meera Sharma;username=meera;password=pass;department=Neurology;qualification=MBBS, DM;experienceYears=5;shift=EVENING;active=true;rating=4.7;ratingsCount=8
+id=DOC3;name=Dr. Vikram Singh;username=vikram;password=pass;department=Orthopedics;qualification=MBBS, MS Ortho;experienceYears=12;shift=MORNING;active=false;rating=4.9;ratingsCount=25
+id=DOC4;name=Dr. Priya Menon;username=priya;password=pass;department=Pediatrics;qualification=MBBS, DCH;experienceYears=6;shift=MORNING;active=true;rating=4.8;ratingsCount=18
+id=DOC5;name=Dr. Rohan Kapoor;username=rohan;password=pass;department=General Medicine;qualification=MBBS, MD;experienceYears=9;shift=EVENING;active=true;rating=4.6;ratingsCount=14
+id=DOC6;name=Dr. AishaKhan;username=aisha;password=pass;department=Dermatology;qualification=MBBS, DVD;experienceYears=4;shift=MORNING;active=false;rating=4.9;ratingsCount=22
+id=DOC7;name=Dr. Sameer Desai;username=sameer;password=pass;department=ENT;qualification=MBBS, MS ENT;experienceYears=8;shift=EVENING;active=true;rating=4.4;ratingsCount=11
+id=DOC8;name=Dr. Neha Gupta;username=neha;password=pass;department=Gynecology;qualification=MBBS, MS OBG;experienceYears=10;shift=MORNING;active=true;rating=4.8;ratingsCount=30
+id=DOC9;name=Dr. Karan Malhotra;username=karan;password=pass;department=Psychiatry;qualification=MBBS, MD Psych;experienceYears=6;shift=EVENING;active=false;rating=4.3;ratingsCount=7
+id=DOC10;name=Dr. Chandrashkehar;username=chandra;password=pass;department=Neurology;qualification=MBBS, DM;experienceYears=7;shift=MORNING;active=true;rating=0.0;ratingsCount=0

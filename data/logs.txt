@@ -1,0 +1,50 @@
+timestamp=2025-11-20 10:15:22;userRole=ADMIN;userId=ADMIN;action=ADD_DOCTOR;details=DOC12
+timestamp=2025-11-20 14:30:11;userRole=PATIENT;userId=PAT1;action=BOOK_APPOINTMENT;details=APT1
+timestamp=2025-11-20 14:45:55;userRole=DOCTOR;userId=DOC1;action=ACCEPT_APPOINTMENT;details=APT1
+timestamp=2025-11-20 15:10:30;userRole=DOCTOR;userId=DOC1;action=ADD_PRESCRIPTION;details=PRS1
+timestamp=2025-11-22 09:05:12;userRole=PATIENT;userId=PAT7;action=FEEDBACK;details=Rating: 5 for APT10timestamp=2025-11-22 13:45:56;userRole=ADMIN;userId=ADMIN;action=ADD_PATIENT;details=PAT21
+timestamp=2025-11-22 13:48:56;userRole=ADMIN;userId=ADMIN;action=ADD_DOCTOR;details=DOC13
+timestamp=2025-11-22 13:58:03;userRole=DOCTOR;userId=DOC1;action=APPOINTMENT_STATUS;details=APT7 -> DOCTOR_ACCEPTED
+timestamp=2025-11-22 13:58:09;userRole=DOCTOR;userId=DOC1;action=APPOINTMENT_STATUS;details=APT7 -> DOCTOR_REJECTED
+timestamp=2025-11-22 13:58:14;userRole=DOCTOR;userId=DOC1;action=APPOINTMENT_STATUS;details=APT7 -> COMPLETED
+timestamp=2025-11-22 13:58:30;userRole=DOCTOR;userId=DOC1;action=APPOINTMENT_STATUS;details=APT14 -> COMPLETED
+timestamp=2025-11-22 14:00:06;userRole=DOCTOR;userId=DOC1;action=ADD_PRESCRIPTION;details=PRS7
+timestamp=2025-11-22 14:01:27;userRole=DOCTOR;userId=DOC1;action=NOTE;details=Doctor internal notes (visible only to admin in logs).uuuuuujjjjjjjj
+timestamp=2025-11-22 14:03:11;userRole=DOCTOR;userId=DOC1;action=ADD_PRESCRIPTION;details=PRS7
+timestamp=2025-11-22 14:05:18;userRole=DOCTOR;userId=DOC1;action=APPOINTMENT_STATUS;details=APT7 -> COMPLETED
+timestamp=2025-11-22 14:05:27;userRole=DOCTOR;userId=DOC1;action=APPOINTMENT_STATUS;details=APT14 -> DOCTOR_REJECTED
+timestamp=2025-11-22 14:05:32;userRole=DOCTOR;userId=DOC1;action=APPOINTMENT_STATUS;details=APT14 -> DOCTOR_ACCEPTED
+timestamp=2025-11-22 14:08:42;userRole=PATIENT;userId=PAT1;action=BOOK_APPOINTMENT;details=APT16
+timestamp=2025-11-22 21:08:53;userRole=DOCTOR;userId=DOC2;action=STATUS_UPDATE;details=APT16 to DOCTOR_ACCEPTED
+timestamp=2025-11-22 21:08:58;userRole=DOCTOR;userId=DOC2;action=STATUS_UPDATE;details=APT16 to COMPLETED
+timestamp=2025-11-22 21:09:05;userRole=DOCTOR;userId=DOC2;action=STATUS_UPDATE;details=APT16 to DOCTOR_ACCEPTED
+timestamp=2025-11-24 18:02:54;userRole=ADMIN;userId=ADMIN;action=ADD_DOCTOR;details=DOC13
+timestamp=2025-11-24 19:36:32;userRole=ADMIN;userId=ADMIN;action=ADD_PATIENT;details=PAT6 - chaithu
+timestamp=2025-11-24 21:38:33;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT7 to DOCTOR_ACCEPTED
+timestamp=2025-11-24 21:38:38;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT1 to DOCTOR_ACCEPTED
+timestamp=2025-11-24 21:38:44;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT1 to COMPLETED
+timestamp=2025-11-24 22:04:03;userRole=PATIENT;userId=PAT1;action=BOOK_APPOINTMENT;details=APT17
+timestamp=2025-11-24 22:34:26;userRole=PATIENT;userId=PAT1;action=BOOK_APPOINTMENT;details=APT18
+timestamp=2025-11-24 22:36:47;userRole=DOCTOR;userId=DOC5;action=STATUS_UPDATE;details=APT18 to DOCTOR_ACCEPTED
+timestamp=2025-11-24 22:36:53;userRole=DOCTOR;userId=DOC5;action=STATUS_UPDATE;details=APT18 to COMPLETED
+timestamp=2025-11-24 22:41:51;userRole=DOCTOR;userId=DOC5;action=STATUS_UPDATE;details=APT18 to COMPLETED
+timestamp=2025-11-24 23:13:43;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT7 to COMPLETED
+timestamp=2025-11-24 23:16:11;userRole=PATIENT;userId=PAT1;action=FEEDBACK;details=Rating: 5 for APT18
+timestamp=2025-11-25 11:20:55;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT14 to DOCTOR_REJECTED
+timestamp=2025-11-25 11:21:02;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT14 to COMPLETED
+timestamp=2025-11-26 15:53:51;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT14 to COMPLETED
+timestamp=2025-11-29 08:06:13;userRole=ADMIN;userId=ADMIN;action=ADD_DOCTOR;details=DOC10
+timestamp=2025-11-29 08:10:04;userRole=DOCTOR;userId=DOC2;action=STATUS_UPDATE;details=APT16 → COMPLETED
+timestamp=2025-11-29 08:11:31;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT1 → COMPLETED
+timestamp=2025-11-29 08:13:17;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT1 → DOCTOR_ACCEPTED
+timestamp=2025-11-29 08:13:23;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT1 → COMPLETED
+timestamp=2025-11-29 08:17:05;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT1 → DOCTOR_ACCEPTED
+timestamp=2025-11-29 08:17:13;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT1 → COMPLETED
+timestamp=2025-11-29 08:17:44;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT7 → DOCTOR_REJECTED
+timestamp=2026-03-06 09:46:07;userRole=DOCTOR;userId=DOC1;action=STATUS_UPDATE;details=APT013 → DOCTOR_REJECTED
+timestamp=2026-03-06 20:28:32;userRole=ADMIN;userId=ADMIN;action=EDIT_DOCTOR;details=DOC6
+timestamp=2026-04-27 07:44:42;userRole=ADMIN;userId=ADMIN;action=MARK_PAID;details=BILL7
+timestamp=2026-04-27 07:47:07;userRole=PATIENT;userId=PAT1;action=BOOK_APPOINTMENT;details=ID: APT026 with Dr. Arjun Reddy
+timestamp=2026-04-27 07:50:01;userRole=DOCTOR;userId=DOC1;action=CREATE_PRESCRIPTION;details=PRS9 for APT001
+timestamp=2026-04-27 07:51:10;userRole=ADMIN;userId=ADMIN;action=APPROVE_APPOINTMENT;details=APT026
+timestamp=2026-04-28 11:45:19;userRole=PATIENT;userId=PAT1;action=BOOK_APPOINTMENT;details=ID: APT027 with Dr. Arjun Reddy
