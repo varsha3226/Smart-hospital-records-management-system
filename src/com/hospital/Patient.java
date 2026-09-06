@@ -99,4 +99,7 @@ public class Patient {
 
     @Override
     public String toString() { return name + " (" + id + ")"; }
+    public void displayPatientInfo() {
+    System.out.println("Patient Module - SRHMS");
+}
 }
