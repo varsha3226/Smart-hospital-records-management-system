@@ -796,6 +796,54 @@ public class AdminDashboardPanel extends JPanel {
             UIUtils.showError(panel, "Bill not found.");
         });
         btnPanel.add(paidBtn);
+	JButton deleteBtn = UIUtils.makeBtn("DELETE BILL", UIUtils.DANGER);
+deleteBtn.setPreferredSize(new Dimension(180, 44));
+deleteBtn.addActionListener(e -> {
+    int vRow = billingTable.getSelectedRow();
+
+    if (vRow == -1) {
+        UIUtils.showError(panel, "Please select a bill!");
+        return;
+    }
+
+    int mRow = billingTable.getRowSorter() != null
+        ? billingTable.getRowSorter().convertRowIndexToModel(vRow) : vRow;
+
+    String billId = (String) model.getValueAt(mRow, 0);
+
+    int confirm = JOptionPane.showConfirmDialog(
+        panel,
+        "Are you sure you want to delete Bill " + billId + "?",
+        "Confirm Bill Deletion",
+        JOptionPane.YES_NO_OPTION,
+        JOptionPane.WARNING_MESSAGE
+    );
+
+    if (confirm != JOptionPane.YES_OPTION) {
+        return;
+    }
+
+    List<Bill> bills = DataStore.loadBills();
+    boolean removed = bills.removeIf(b -> b.getId().equals(billId));
+
+    if (removed) {
+        DataStore.saveBills(bills);
+        DataStore.appendLog(new TransactionLog(
+            UIUtils.nowDateTime(),
+            "ADMIN",
+            "ADMIN",
+            "DELETE_BILL",
+            billId
+        ));
+
+        refreshBillingTable();
+        UIUtils.showInfo(panel, "Bill " + billId + " deleted successfully!");
+    } else {
+        UIUtils.showError(panel, "Bill not found.");
+    }
+});
+
+btnPanel.add(deleteBtn);
         panel.add(btnPanel, BorderLayout.SOUTH);
         refreshBillingTable();
         return panel;
