@@ -113,17 +113,6 @@ public class Doctor {
                ";ratingsCount="  + ratingsCount;
     }
 
-    // Update doctor details
-public void updateDoctor(String name, String department,
-                         String qualification, int experienceYears,
-                         String shift) {
-    this.name = name;
-    this.department = department;
-    this.qualification = qualification;
-    this.experienceYears = experienceYears;
-    this.shift = shift;
-}
-
     @Override
     public String toString() { return name + " (" + department + ")"; }
 }
