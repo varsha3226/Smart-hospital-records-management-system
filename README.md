@@ -17,7 +17,7 @@ A desktop-based Hospital Management System built with **Java Swing**, featuring 
 
 ---
 
-## ✨ Features.......
+## ✨ Features.....
 
 ### 👨‍💼 Admin Dashboard
 - Add, edit, toggle active/inactive, and remove doctors
