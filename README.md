@@ -236,5 +236,6 @@ Cardiology · Cardiothoracic Surgery · Neurology · Neurosurgery · Orthopedics
 ---
 
 ## 📄 License
+Billing Module: Supports bill creation, payment status, and bill management.
 
 This project is for educational purposes.
