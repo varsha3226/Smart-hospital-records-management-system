@@ -1,4 +1,4 @@
-# 🏥 SHRMS — Smart Hospital Resource Management System
+# 🏥 SHRMS — Smart Hospital Resource Management System........
 
 A desktop-based Hospital Management System built with **Java Swing**, featuring role-based dashboards for Admins, Doctors, and Patients. All data is stored in plain-text flat files — no database required.
 
@@ -17,7 +17,7 @@ A desktop-based Hospital Management System built with **Java Swing**, featuring 
 
 ---
 
-## ✨ Features
+## ✨ Features.....
 
 ### 👨‍💼 Admin Dashboard
 - Add, edit, toggle active/inactive, and remove doctors
@@ -236,5 +236,6 @@ Cardiology · Cardiothoracic Surgery · Neurology · Neurosurgery · Orthopedics
 ---
 
 ## 📄 License
+Billing Module: Supports bill creation, payment status, and bill management.
 
 This project is for educational purposes.
