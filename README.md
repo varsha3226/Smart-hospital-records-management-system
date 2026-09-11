@@ -238,3 +238,4 @@ Cardiology · Cardiothoracic Surgery · Neurology · Neurosurgery · Orthopedics
 ## 📄 License
 
 This project is for educational purposes.
+Patient Module: Manages patient registration and patient information.
