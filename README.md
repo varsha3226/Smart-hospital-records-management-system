@@ -239,3 +239,4 @@ Cardiology · Cardiothoracic Surgery · Neurology · Neurosurgery · Orthopedics
 Billing Module: Supports bill creation, payment status, and bill management.
 
 This project is for educational purposes.
+Patient Module: Manages patient registration and patient information.
