@@ -4,7 +4,7 @@ A desktop-based Hospital Management System built with **Java Swing**, featuring 
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Contents ...
 
 - [Features](#-features)
 - [Project Structure](#-project-structure)
